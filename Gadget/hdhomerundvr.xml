@@ -8,8 +8,8 @@
   <Changes>
 [center][font size=4]hdhomerundvr Change Log[/font][/center]
 
-[font size=3]2016.09.2[/font]
-- Updated to 20160902beta3
+[font size=3]2016.09.28[/font]
+- Updated to 20160928beta1
 
   </Changes>
   <Overview>
@@ -33,7 +33,7 @@
   <Environment/>
   <Data>
     <Volume>
-      <HostDir>/mnt/user0/HDHOMERUN</HostDir>
+      <HostDir>/mnt/user0/hdhomerun</HostDir>
       <ContainerDir>/hdhomerun</ContainerDir>
       <Mode>rw</Mode>
     </Volume>
