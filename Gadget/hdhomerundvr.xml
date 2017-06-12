@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Containers>
-  <Date>2017-05-12</Date>
+  <Date>2017-06-12</Date>
   <Beta>True</Beta>
   <Category>MediaServer:Video</Category>
   <Name>hdhomerundvr</Name>
@@ -8,7 +8,7 @@
   <Changes>
 [center][font size=4]hdhomerundvr Change Log[/font][/center]
 
-[font size=3]2017.05.12[/font]
+[font size=3]2017.06.12[/font]
 - Updated to 20170512
 
   </Changes>
@@ -33,7 +33,7 @@
   <Environment/>
   <Data>
     <Volume>
-      <HostDir>/mnt/user0/hdhomerun</HostDir>
+      <HostDir>/mnt/user/hdhomerun</HostDir>
       <ContainerDir>/hdhomerun</ContainerDir>
       <Mode>rw</Mode>
     </Volume>
