@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Containers>
-  <Date>2017-11-18</Date>
+  <Date>2018-04-03</Date>
   <Beta>True</Beta>
   <Category>MediaServer:Video</Category>
   <Name>hdhomerundvr</Name>
@@ -8,7 +8,7 @@
   <Changes>
 [center][font size=4]hdhomerundvr Change Log[/font][/center]
 
-[font size=3]2017.11.18[/font]
+[font size=3]2018-04-03[/font]
 - Updated to 20171118beta1
 
   </Changes>
